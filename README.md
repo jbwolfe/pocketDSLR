@@ -1,4 +1,19 @@
-# CS495-Team-Awesome
-CS495 group project group
+# pocketDSLR
+Chris Caruso, Brian Chen, Joshua Wolfe
+###### "In photography there is a reality so subtle 
+######  that it becomes more real than reality."
+######                            -Alfred Stieglitz
 
-Android application project to create a fully configurable camera application, utilizing the new APIs from Lollipop update.
+## About pocketDSLR
+pocketDSLR is a bare-bones, point-n-shoot camera application designed for 
+Android Lollipop devices. It utilizes the Android 5.0 APIs (v. 21) allowing 
+for unique customization and control over the onboard camera. These 
+functionalities include, but are not limited to:
+* Manipulating shutter speed
+* Changing exposure level
+* Control ISO levels
+* Provide manual fucussing 
+The intended goals for pocketDSLR are to:
+* Privide manual control of the device's native camera
+* Accomplish this in an efficient, fast functioning application
+* Allow image manipulation to provide missing camera functionalities. (*TBD*)
