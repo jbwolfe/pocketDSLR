@@ -1,8 +1,7 @@
 # pocketDSLR
 Chris Caruso, Brian Chen, Joshua Wolfe
-###### "In photography there is a reality so subtle 
-######  that it becomes more real than reality."
-######                            -Alfred Stieglitz
+
+###### "In photography there is a reality so subtle <br> that it becomes more real than reality." <br>                            -Alfred Stieglitz
 
 ## About pocketDSLR
 pocketDSLR is a bare-bones, point-n-shoot camera application designed for 
@@ -13,6 +12,7 @@ functionalities include, but are not limited to:
 * Changing exposure level
 * Control ISO levels
 * Provide manual fucussing 
+
 The intended goals for pocketDSLR are to:
 * Privide manual control of the device's native camera
 * Accomplish this in an efficient, fast functioning application
