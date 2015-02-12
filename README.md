@@ -1,7 +1,7 @@
 # pocketDSLR
 Chris Caruso, Brian Chen, Joshua Wolfe
 
-###### "In photography there is a reality so subtle <br> that it becomes more real than reality." <br>                            -Alfred Stieglitz
+###### "In photography there is a reality so subtle <br> that it becomes more real than reality." <br> -Alfred Stieglitz
 
 ## About pocketDSLR
 pocketDSLR is a bare-bones, point-n-shoot camera application designed for 
